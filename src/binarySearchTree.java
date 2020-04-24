@@ -76,7 +76,7 @@ public class binarySearchTree{
 	 * Three Cases:
 	 * Case 1: The node to delete has no children 
 	 * Case 2: The node to delete has one child, left or right
-	 * Case 3: The node to delete has 3 children 
+	 * Case 3: The node to delete has 2 children 
 	 */
 	public boolean deleteNode(int value) {
 		Node parent = root;
